@@ -1,0 +1,36 @@
+img {
+  width: 250px;
+}
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+a{ 
+ font-size: 45px;
+ font-family: "Comic Sans Ms";
+ color: lightblue;
+}
+
+.mytext {
+    width: 300px;
+	height: 150PX;
+}
+fieldset { 
+	border:1px solid navy
+}
+
+legend {
+  padding: 0.2em 0.5em;
+  border:1px solid navy;
+  color:navy;
+  font-size:90%;
+  text-align:center;
+}
